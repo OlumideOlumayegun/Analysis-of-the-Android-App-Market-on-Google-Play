@@ -4,3 +4,4 @@ plotly
 nbformat==5.1.2
 matplotlib
 seaborn
+kaleido==0.1.0.post1

@@ -37,4 +37,4 @@ Through data visualisation and exploration, this notebook seeks to provide actio
 
 ---
 
-See the <a href="https://github.com/OlumideOlumayegun/Analysing-TV-Data/blob/main/notebook.ipynb">Jupyter Notebook</a> for complete analysis.
+See the <a href="https://github.com/OlumideOlumayegun/Analysis-of-the-Android-App-Market-on-Google-Play/blob/main/notebook.ipynb">Jupyter Notebook</a> for complete analysis.

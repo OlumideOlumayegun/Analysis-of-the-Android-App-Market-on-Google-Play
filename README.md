@@ -29,9 +29,11 @@ In this notebook, we will perform a comprehensive analysis of the Android app ma
 
 Our analysis will address the following key questions:
 - What are the most popular app categories?
-- How do user ratings and reviews vary across different types of apps?
+- How do user ratings vary across mobile apps?
+- How does price and size of apps affect ratings?
 - What pricing models (free vs. paid) are most prevalent, and how do they impact app success?
-- Are there patterns in app size, update frequency, or installation numbers that correlate with app performance?
+- Can the category of an app be used to justify the price?
+- Are users more satisfied with free apps?
 
 Through data visualisation and exploration, this notebook seeks to provide actionable insights for app developers, marketers, and stakeholders in the Android app ecosystem.
 

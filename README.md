@@ -78,4 +78,4 @@ This project was conducted as part of the project portfolio for DataCamp's Data 
 
 ---
 
-See the <a href="https://github.com/OlumideOlumayegun/Analysis-of-the-Android-App-Market-on-Google-Play/blob/main/notebook.ipynb">Jupyter Notebook</a> or <a href="https://nbviewer.org/github/OlumideOlumayegun/Analysis-of-the-Android-App-Market-on-Google-Play/blob/main/notebook.ipynb">nbviewer page</a> the for complete analysis.
+See the <a href="https://github.com/OlumideOlumayegun/Analysis-of-the-Android-App-Market-on-Google-Play/blob/main/notebook.ipynb">Jupyter Notebook</a> or <a href="https://nbviewer.org/github/OlumideOlumayegun/Analysis-of-the-Android-App-Market-on-Google-Play/blob/main/notebook.ipynb">nbviewer page</a> for the complete analysis.

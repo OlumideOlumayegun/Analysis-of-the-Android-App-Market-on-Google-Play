@@ -20,7 +20,9 @@
   <li>Growth and Next Steps</li>
   <li>Acknowledgement</li>
 </ol>
+
 ---
+
 Mobile apps are an integral part of modern life, offering a wide range of functionalities from entertainment to productivity. With the ease of app development and the potential for significant financial returns, the mobile app market continues to expand rapidly. As a result, more apps are being developed every day, contributing to a highly competitive and dynamic ecosystem.
 
 In this notebook, we will perform a comprehensive analysis of the Android app market by examining data from over ten thousand apps available on the Google Play Store. By exploring key metrics across various app categories, we aim to uncover valuable insights that can inform strategies for app growth and user retention.
